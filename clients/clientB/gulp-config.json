@@ -1,0 +1,13 @@
+{
+  "scssFiles": [
+    "ppcl-clientb.scss",
+    "ppcl-clientb-ie.scss"
+  ],
+  "jsFiles": [
+    "ppcl-clientb.js"
+  ],
+  "htmlFiles": [
+    "header.html",
+    "footer.html"
+  ]
+}
